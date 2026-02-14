@@ -1,16 +1,70 @@
-## Hi there 👋
+👋 Hi, I'm Mohamed Mahmoud
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=false&vCenter=true&width=500&lines=IT+Graduate;Backend+Developer;Full-Stack+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<!--
-**mohamed-mahmoud-coder/mohamed-mahmoud-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Graduate passionate about building secure and practical web applications.
+🚀 Focused on Backend Development & Full-Stack Web Systems.
+📚 Always improving through real-world projects and continuous learning.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 IT graduate with strong software fundamentals
+
+🔐 Interested in secure backend systems
+
+🧩 Skilled in problem solving & logical thinking
+
+📈 Building projects to grow as a professional developer
+
+🛠️ Tech Stack
+💻 Languages & Web
+
+
+
+
+
+
+
+
+
+
+
+
+🗄️ Database & Tools
+
+
+
+
+
+
+
+
+📂 Featured Projects
+🔐 Secure E-Commerce System
+
+Authentication & authorization system
+
+Product and order management
+
+Built with PHP + MySQL
+
+👤 Registration & Login System
+
+Secure login and registration
+
+Validation & database integration
+
+Responsive interface
+
+📊 GitHub Analytics
+
+🐍 Contribution Snake (Pro Touch)
+
+🌍 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/mohamed-mahmoud-15a1072ba
+
+💻 GitHub: https://github.com/mohamed-mahmoud-coder
+
+⚡ Fun Fact
+
+I enjoy transforming ideas into real applications and solving logical challenges through code.
