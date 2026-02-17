@@ -61,3 +61,8 @@ Responsive interface
 ⚡ Fun Fact
 
 I enjoy transforming ideas into real applications and solving logical challenges through code.
+###
+
+<img src="https://raw.githubusercontent.com/mohamed-mahmoud-coder/mohamed-mahmoud-coder/output/snake.svg" alt="Snake animation" />
+
+###
